@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Click to Play](https://shields.io)](https://open.spotify.com/embed/track/4LLHvfvE21JQFD9ZKVCbd0?utm_source=generator&si=39aa3ff524084e78)
 
 <!--
 **gadsden0/gadsden0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
